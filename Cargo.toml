@@ -1,0 +1,5 @@
+[package]
+name = "snipt"
+version = "0.1.0"
+edition = "2021"
+description = "Snipt is a powerful text snippet expansion tool!"
